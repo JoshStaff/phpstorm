@@ -8,6 +8,7 @@
       <mapping pattern=".env.dusk.local" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.dusk" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="config" type="YAML" />
     </extensionMap>
   </component>
