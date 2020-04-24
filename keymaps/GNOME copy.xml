@@ -1,0 +1,8 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="InsertLiveTemplate" />
+</keymap>
