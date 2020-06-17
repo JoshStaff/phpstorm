@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="services/api/equipment.tsx" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2468" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2517" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
