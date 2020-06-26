@@ -8,6 +8,7 @@
       <mapping pattern="OP2-2468" type="PLAIN_TEXT" />
       <mapping pattern="OP2-1602" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2517" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2587" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
