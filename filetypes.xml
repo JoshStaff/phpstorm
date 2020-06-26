@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="OP2-2418" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2479" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2545" type="PLAIN_TEXT" />
       <mapping pattern="services/api/equipment.tsx" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2362" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2468" type="PLAIN_TEXT" />
