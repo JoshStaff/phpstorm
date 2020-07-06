@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="OP2-2797" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2418" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2479" type="PLAIN_TEXT" />
@@ -12,7 +13,9 @@
       <mapping pattern="OP2-2362" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2468" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2545" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2799" type="PLAIN_TEXT" />
       <mapping pattern="OP2-1602" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2796" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2587" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
