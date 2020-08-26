@@ -13,7 +13,6 @@
       <mapping pattern="OP2-2644" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3112" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3258" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-3286" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2959" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2418" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2694" type="PLAIN_TEXT" />
@@ -36,6 +35,7 @@
       <mapping pattern="OP2-2716" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2711" type="PLAIN_TEXT" />
       <mapping pattern="services/api/equipment.tsx" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-3286" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3283" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3000" type="PLAIN_TEXT" />
