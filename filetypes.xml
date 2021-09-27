@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="OP2-7143" type="AUTO_DETECTED" />
       <mapping pattern="OP2-4227" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7188" type="AUTO_DETECTED" />
       <mapping pattern="OP2-4211" type="AUTO_DETECTED" />
       <mapping pattern="services/api/equipment.tsx" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2844" type="PLAIN_TEXT" />
