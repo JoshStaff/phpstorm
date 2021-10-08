@@ -3,8 +3,8 @@
     <extensionMap>
       <mapping pattern="OP2-7143" type="AUTO_DETECTED" />
       <mapping pattern="OP2-4227" type="AUTO_DETECTED" />
-      <mapping pattern="OP2-7242" type="AUTO_DETECTED" />
       <mapping pattern="OP2-4765" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7242" type="AUTO_DETECTED" />
       <mapping pattern="OP2-7237" type="AUTO_DETECTED" />
       <mapping pattern="OP2-7188" type="AUTO_DETECTED" />
       <mapping pattern="OP2-4211" type="AUTO_DETECTED" />
@@ -14,14 +14,14 @@
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3258" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2716" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2587" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2711" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2796" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2587" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2836" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2796" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2362" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2468" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2468" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3112" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2959" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3000" type="PLAIN_TEXT" />
