@@ -13,6 +13,7 @@
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3258" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-7301" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2716" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2711" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2587" type="PLAIN_TEXT" />
