@@ -8,6 +8,7 @@
       <mapping pattern="OP2-4160" type="AUTO_DETECTED" />
       <mapping pattern="OP2-7242" type="AUTO_DETECTED" />
       <mapping pattern="OP2-4765" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8079" type="AUTO_DETECTED" />
       <mapping pattern="OP2-7926" type="AUTO_DETECTED" />
       <mapping pattern="OP2-8005" type="AUTO_DETECTED" />
       <mapping pattern="OP2-8035" type="AUTO_DETECTED" />
@@ -56,8 +57,8 @@
       <mapping pattern="OP2-2863" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2899" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2545" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-3031" type="PLAIN_TEXT" />
       <mapping pattern="OP2-1602" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-3031" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2869" type="PLAIN_TEXT" />
       <mapping ext="ph" type="PLAIN_TEXT" />
     </extensionMap>
