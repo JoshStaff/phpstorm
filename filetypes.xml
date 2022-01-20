@@ -11,9 +11,10 @@
       <mapping pattern="EloquentGlobalTermsRepository" type="AUTO_DETECTED" />
       <mapping pattern="OP2-7359" type="AUTO_DETECTED" />
       <mapping pattern="OP2-4160" type="AUTO_DETECTED" />
-      <mapping pattern="OP2-8198" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8158" type="AUTO_DETECTED" />
       <mapping pattern="OP2-7242" type="AUTO_DETECTED" />
       <mapping pattern="OP2-7956" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8198" type="AUTO_DETECTED" />
       <mapping pattern="OP2-4765" type="AUTO_DETECTED" />
       <mapping pattern="OP2-8079" type="AUTO_DETECTED" />
       <mapping pattern="OP2-8160" type="AUTO_DETECTED" />
@@ -28,8 +29,8 @@
       <mapping pattern="OP2-4319" type="AUTO_DETECTED" />
       <mapping pattern="OP2-8078" type="AUTO_DETECTED" />
       <mapping pattern="OP2-7282" type="AUTO_DETECTED" />
-      <mapping pattern="OP2-4554" type="AUTO_DETECTED" />
       <mapping pattern="OP2-7808" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-4554" type="AUTO_DETECTED" />
       <mapping pattern="OP2-7188" type="AUTO_DETECTED" />
       <mapping pattern="OP2-4211" type="AUTO_DETECTED" />
       <mapping pattern="OP2-7720" type="AUTO_DETECTED" />
@@ -69,8 +70,8 @@
       <mapping pattern="OP2-2863" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2899" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2545" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-3031" type="PLAIN_TEXT" />
       <mapping pattern="OP2-1602" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-3031" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2869" type="PLAIN_TEXT" />
       <mapping ext="ph" type="PLAIN_TEXT" />
     </extensionMap>
