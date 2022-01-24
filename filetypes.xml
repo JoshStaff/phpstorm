@@ -17,6 +17,7 @@
       <mapping pattern="OP2-8198" type="AUTO_DETECTED" />
       <mapping pattern="OP2-4765" type="AUTO_DETECTED" />
       <mapping pattern="OP2-8079" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8225" type="AUTO_DETECTED" />
       <mapping pattern="OP2-8160" type="AUTO_DETECTED" />
       <mapping pattern="gcj" type="AUTO_DETECTED" />
       <mapping pattern="OP2-7926" type="AUTO_DETECTED" />
