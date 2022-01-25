@@ -76,6 +76,7 @@
       <mapping pattern="OP2-1602" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3031" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2869" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="ph" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
