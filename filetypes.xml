@@ -6,6 +6,7 @@
       <mapping pattern="OP2-6829" type="AUTO_DETECTED" />
       <mapping pattern="OP2-8137" type="AUTO_DETECTED" />
       <mapping pattern="OP2-7551" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7449" type="AUTO_DETECTED" />
       <mapping pattern="OP2-4227" type="AUTO_DETECTED" />
       <mapping pattern="test123" type="AUTO_DETECTED" />
       <mapping pattern="EloquentGlobalTermsRepository" type="AUTO_DETECTED" />
