@@ -79,6 +79,7 @@
       <mapping pattern="OP2-2797" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2694" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2517" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3283" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2863" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2899" type="PLAIN_TEXT" />
