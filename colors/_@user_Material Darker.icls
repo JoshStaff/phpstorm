@@ -4,7 +4,7 @@
     <property name="created">2021-09-15T09:23:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2021.1.4.0.0</property>
-    <property name="modified">2022-02-19T10:49:24</property>
+    <property name="modified">2022-02-19T17:12:59</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -3000,7 +3000,7 @@
     </option>
     <option name="PHP_THIS_VAR">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
     <option name="PHP_VAR">
