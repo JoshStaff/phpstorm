@@ -56,19 +56,19 @@
       <mapping pattern="OP2-2716" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2587" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2711" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2796" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2836" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2468" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2362" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2796" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2362" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2468" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3112" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2959" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3000" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2948" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2646" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2645" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3286" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2645" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2646" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2418" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2799" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3188" type="PLAIN_TEXT" />
@@ -84,8 +84,8 @@
       <mapping pattern="OP2-2863" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2899" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2545" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-1602" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3031" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-1602" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2869" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="ph" type="PLAIN_TEXT" />
