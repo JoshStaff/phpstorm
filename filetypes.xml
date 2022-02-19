@@ -1,45 +1,94 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="OP2-7143" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7952" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-6829" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8137" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7551" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8362" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7449" type="AUTO_DETECTED" />
       <mapping pattern="OP2-4227" type="AUTO_DETECTED" />
-      <mapping pattern="OP2-3031" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-3112" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2863" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2587" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2899" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-1602" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2418" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-3283" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-3000" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-3286" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2797" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2796" type="PLAIN_TEXT" />
+      <mapping pattern="test123" type="AUTO_DETECTED" />
+      <mapping pattern="EloquentGlobalTermsRepository" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7359" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-4160" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8158" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8198" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-4765" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7242" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7956" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8079" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8160" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8225" type="AUTO_DETECTED" />
+      <mapping pattern="gcj" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7926" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8084" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7409" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8005" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7077" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8342" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8232" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8154" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8035" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7752" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7237" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7309" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8338" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8272" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-4319" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8317" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8078" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7282" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7808" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-4554" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7188" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7408" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-4211" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-7720" type="AUTO_DETECTED" />
+      <mapping pattern="OP2-8377" type="AUTO_DETECTED" />
       <mapping pattern="services/api/equipment.tsx" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2468" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2545" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2948" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2869" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2844" type="PLAIN_TEXT" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-3133" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2362" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3258" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2711" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2799" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2479" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2959" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-7301" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2716" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2587" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2711" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2836" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2517" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2917" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2694" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2796" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-3188" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2844" type="PLAIN_TEXT" />
-      <mapping pattern="OP2-2646" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2362" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2468" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-3112" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2959" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-3000" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2948" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-3286" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2645" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2646" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2418" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2799" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-3188" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2644" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-3133" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2917" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2479" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2797" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2694" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2517" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-3283" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2863" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2899" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2545" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-3031" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-1602" type="PLAIN_TEXT" />
+      <mapping pattern="OP2-2869" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping ext="ph" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
