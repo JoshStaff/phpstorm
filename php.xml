@@ -2,6 +2,7 @@
   <component name="MessDetector">
     <phpmd_settings_migrated />
   </component>
+  <component name="PhpAutoImport" global_function_behavior="PREFER_FQN" />
   <component name="PhpSmartKeysConfiguration">
     <option name="promptFindUsagesOfBaseMethod" value="false" />
   </component>
