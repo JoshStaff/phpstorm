@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -15,9 +16,9 @@
     <mask>Request*.php</mask>
     <mask>*.json</mask>
     <mask>*blade.php</mask>
-    <mask>*.blade.php</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
