@@ -19,8 +19,8 @@
     <mask>*.html</mask>
     <mask>*.vue</mask>
     <mask>wi</mask>
-    <mask>*.js</mask>
     <mask>*.blade.php</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
   </component>
 </application>
