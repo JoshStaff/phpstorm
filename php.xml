@@ -1,0 +1,6 @@
+<application>
+  <component name="PhpAutoImport" global_constant_behavior="PREFER_FQN" global_function_behavior="PREFER_FQN" />
+  <component name="PhpSmartKeysConfiguration">
+    <option name="promptFindUsagesOfBaseMethod" value="false" />
+  </component>
+</application>
