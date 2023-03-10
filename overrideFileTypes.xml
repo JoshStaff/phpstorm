@@ -1,0 +1,6 @@
+<application>
+  <component name="OverrideFileTypeManager">
+    <file url="file://$USER_HOME$/PhpstormProjects/booking-flow-frontend/src/styles/global.css" value="PostCSS" />
+    <file url="file://$USER_HOME$/PhpstormProjects/booking-flow-frontend/src/styles/react-datepicker.css" value="PostCSS" />
+  </component>
+</application>
