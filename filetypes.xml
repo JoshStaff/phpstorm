@@ -55,6 +55,7 @@
       <mapping pattern="OP2-3283" type="PLAIN_TEXT" />
       <mapping pattern="OP2-3286" type="PLAIN_TEXT" />
       <mapping pattern="services/api/equipment.tsx" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2468" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2869" type="PLAIN_TEXT" />
