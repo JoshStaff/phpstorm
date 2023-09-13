@@ -17,11 +17,11 @@
     <mask>*.csv</mask>
     <mask>*.tsx</mask>
     <mask>*.js</mask>
-    <mask>*.vue</mask>
     <mask>*.sh</mask>
     <mask>*.env</mask>
     <mask>Dockerfile</mask>
     <mask>*blade.php</mask>
     <mask>*.php</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
