@@ -93,6 +93,7 @@
       <mapping pattern="OP2-2645" type="PLAIN_TEXT" />
       <mapping pattern="OP2-2644" type="PLAIN_TEXT" />
       <mapping ext="client-portal" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="ph" type="PLAIN_TEXT" />
     </extensionMap>
