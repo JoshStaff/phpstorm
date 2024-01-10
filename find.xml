@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -20,11 +21,11 @@
     <mask>*.env</mask>
     <mask>Dockerfile</mask>
     <mask>*blade.php</mask>
-    <mask>*.blade.php</mask>
     <mask>*.php``</mask>
     <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.ts</mask>
     <mask>*.php</mask>
+    <mask>*.blade.php</mask>
   </component>
 </application>
